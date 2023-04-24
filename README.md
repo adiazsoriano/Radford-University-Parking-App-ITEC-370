@@ -23,7 +23,7 @@ A application designed to give parking information to make it easier for the use
 ### Sprint 3
  * Updating the map at a varying rate
  * Displaying a heatmap for each lot
- * Map with ecery lot being interactive
+ * Map with every lot being interactive
 ## Tech Stack
  * LAMP
  * WAMP
